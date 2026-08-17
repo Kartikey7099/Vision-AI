@@ -1,0 +1,10 @@
+# Native Florence-2 support (Florence2ForConditionalGeneration) requires a recent
+# transformers release. If you hit issues, upgrade with: pip install -U transformers
+streamlit>=1.35
+torch>=2.2
+transformers>=4.57
+pillow
+timm
+einops
+accelerate
+pandas
